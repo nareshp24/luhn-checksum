@@ -1,0 +1,17 @@
+/* output of luhnChecksumType2.cpp */
+
+//Run the code
+Enter a number:79927398712
+ 79927398712
+Checksum is 69.
+Checksum is invalid.
+
+Process finished with exit code 0
+
+//Run the code again
+Enter a number:79927398713
+ 79927398713
+Checksum is: 70
+Checksum is valid.
+
+Process finished with exit code 0
